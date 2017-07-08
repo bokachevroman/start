@@ -1,0 +1,10 @@
+{
+  "name": "final_project",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^7.0.0",
+    "modernizer": "^2.8.2",
+    "bootstrap": "^3.3.7"
+  }
+}
